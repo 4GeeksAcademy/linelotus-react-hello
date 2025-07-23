@@ -8,4 +8,13 @@
     
     import 'relative/path/to/stylesheet.scss';
 
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgba(46, 44, 44, 0.694);
+  color: white;
+
+}
+
 */
+
